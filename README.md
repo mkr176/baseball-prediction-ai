@@ -35,7 +35,27 @@ A comprehensive baseball game prediction system adapted from the 85% accuracy te
 ### Installation
 
 1. Clone or download the project
-2. Install dependencies:
+### 1. Create Virtual Environment
+=======
+### Create Virtual Environment
+```bash
+# Navigate to project directory
+cd baseball-prediction-ai
+
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+```
+
+<<<<<<< HEAD
+### 2. Install Dependencies
+=======
+###  Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
