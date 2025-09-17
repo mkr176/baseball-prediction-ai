@@ -1,5 +1,9 @@
 # ⚾ Baseball Prediction AI
 
+# NOTE: Current accuracy 57.6% Not ready for use
+
+
+
 A comprehensive baseball game prediction system adapted from the 85% accuracy tennis predictor model. Uses advanced ELO rating systems, machine learning, and comprehensive baseball analytics to predict MLB game outcomes.
 
 ## 🎯 Features
